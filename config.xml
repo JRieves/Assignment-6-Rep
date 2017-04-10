@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmls = "http://www.w3.org/ns/widgets"
+    xmls:gap = "http://phonegap.com/ns/1.0"
+    id = "edu.uab.business.studentapp"
+    versionCode = "0.0.1">
+    
+<!-- versionCode is optional and Android only -->
+
+<name>Assignment 6 App</name>
+
+<description>
+    Assignment 6 Mobile Application
+</description>
+
+<author>
+    Jonathan Rieves
+</author>
+
+<preference name="phonegap-version" value="cli-6.3.0" />
+<plugin name="cordova-plugin-whitelist" source="npm" />
+<access origin="*" />
+
+</widget>
+
